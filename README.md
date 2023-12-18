@@ -17,7 +17,7 @@ Android device or emulator running Android OS (version XYZ or higher).
 Steps
 Clone the repository or download the ZIP file.
 
-git clone https://github.com/nikittank/PRODIGY_AD_02.git
+git clone https://github.com/kamatchi-somesh/PRODIGY_AD_02.git
 Open the project in Android Studio.
 
 Build and run the app on your Android device or emulator.
