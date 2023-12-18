@@ -29,7 +29,7 @@ Welcome to the To-Do List App developed using Android Studio! This application p
 
 Ensure you have the following prerequisites before installing and running the app:
 
-- Android device or emulator running Android OS (version XYZ or higher).
+- Android device or emulator running Android OS (version 8.0 or higher).
 
 ## Installation Steps
 
